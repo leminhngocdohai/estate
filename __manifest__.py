@@ -6,7 +6,7 @@
     'website': "https://www.ntq-solution.com.vn",
     'category': 'Uncategorized',
     'version': '0.1',
-    'depends': ['base'],
+    'depends': ['base', 'product', 'sale'],
 
     # always loaded
     'data': [
